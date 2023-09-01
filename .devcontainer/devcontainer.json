@@ -53,7 +53,8 @@
 				"ms-python.vscode-pylance",
 				"ms-python.python",
 				"ms-vscode.makefile-tools",
-				"GitHub.copilot"
+				"GitHub.copilot",
+				"GitHub.codespaces"
 			]
 		}
 	},
