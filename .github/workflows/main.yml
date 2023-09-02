@@ -2,9 +2,9 @@ name: Python CI
 
 on:
   push:
-    branches: [ calc ]
+    branches: [ main ]
   pull_request:
-    branches: [ calc ]
+    branches: [ main ]
   workflow_dispatch:
 
 jobs:
