@@ -1,4 +1,4 @@
-import calc
+from calc import mul , sub , add
 
 def test_mul():
     assert calc.mul(1, 2) == 2
