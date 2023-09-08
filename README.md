@@ -5,7 +5,7 @@
 Creating  a Python GitHub template
 ## Overview
 
-Creating a Python GitHub template will will be used in my future projects.
+Creating a Python GitHub template that will be used in my future projects.
 
 
 ## Code Description
